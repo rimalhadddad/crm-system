@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rouro\\source\\repos\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\helpers\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\helpers\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\interfaces\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\interfaces\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\clientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\clientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\assignpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\assignpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|solutionrelative:crm.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.data\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|solutionrelative:crm.data\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|solutionrelative:crm.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E95E28-7528-0A8D-08EC-A0614243A5E9}|CRM.Data\\CRM.Data.csproj|solutionrelative:crm.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRMDb/True/SqlTable/dbo.Properties.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\crm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\crm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|c:\\users\\rouro\\source\\repos\\crm\\crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E61DFB-1D0F-412F-B99A-CA651EA246C1}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:10:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "CRM.API\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:11:33.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA2wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:24:34.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Interfaces\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IPropertyService.cs",
+              "RelativeToolTip": "CRM.API\\Interfaces\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:04:59.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\PropertyService.cs",
+              "RelativeToolTip": "CRM.API\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:55:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:03:53.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Helpers\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Helpers\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Helpers\\AuthResponse.cs",
+              "RelativeToolTip": "CRM.API\\Helpers\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:13:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\ClientCreateDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\ClientCreateDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\ClientCreateDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\ClientCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:07:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\ClientService.cs",
+              "RelativeToolTip": "CRM.API\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwIkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:15:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:41:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignPropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\AssignPropertyDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\AssignPropertyDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\AssignPropertyDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\AssignPropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:18:52.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRM.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CRM.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:38:09.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "CRM.Data\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\Property.cs",
+              "RelativeToolTip": "CRM.Data\\Entities\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:46:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\PropertyDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\PropertyDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\PropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:02:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "CRM.Data\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\Client.cs",
+              "RelativeToolTip": "CRM.Data\\Entities\\Client.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:46:40.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CRM.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.Data\\Entities\\User.cs",
+              "RelativeToolTip": "CRM.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:46:02.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "CRM.API\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:19:11.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Helpers\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "CRM.API\\Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:14:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:17:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Program.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Program.cs",
+              "RelativeToolTip": "CRM.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:45:59.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "CRM.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:20:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "CRM.API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "CRM.API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:16:53.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Properties.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRMDb/True/SqlTable/dbo.Properties.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRMDb/True/SqlTable/dbo.Properties.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-24T16:26:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CRM.API.csproj",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\CRM.API.csproj",
+              "RelativeDocumentMoniker": "CRM.API\\CRM.API.csproj",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\CRM.API.csproj",
+              "RelativeToolTip": "CRM.API\\CRM.API.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T08:39:27.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rouro\\source\\repos\\CRM\\CRM.API\\appsettings.json",
+              "RelativeToolTip": "CRM.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T13:43:21.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
